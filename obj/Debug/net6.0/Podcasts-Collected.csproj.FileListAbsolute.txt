@@ -1,0 +1,15 @@
+/home/carren/C-SharpProjects/Podcasts-Collected/bin/Debug/net6.0/Podcasts-Collected
+/home/carren/C-SharpProjects/Podcasts-Collected/bin/Debug/net6.0/Podcasts-Collected.deps.json
+/home/carren/C-SharpProjects/Podcasts-Collected/bin/Debug/net6.0/Podcasts-Collected.runtimeconfig.json
+/home/carren/C-SharpProjects/Podcasts-Collected/bin/Debug/net6.0/Podcasts-Collected.dll
+/home/carren/C-SharpProjects/Podcasts-Collected/bin/Debug/net6.0/ref/Podcasts-Collected.dll
+/home/carren/C-SharpProjects/Podcasts-Collected/bin/Debug/net6.0/Podcasts-Collected.pdb
+/home/carren/C-SharpProjects/Podcasts-Collected/obj/Debug/net6.0/Podcasts-Collected.csproj.AssemblyReference.cache
+/home/carren/C-SharpProjects/Podcasts-Collected/obj/Debug/net6.0/Podcasts-Collected.GeneratedMSBuildEditorConfig.editorconfig
+/home/carren/C-SharpProjects/Podcasts-Collected/obj/Debug/net6.0/Podcasts-Collected.AssemblyInfoInputs.cache
+/home/carren/C-SharpProjects/Podcasts-Collected/obj/Debug/net6.0/Podcasts-Collected.AssemblyInfo.cs
+/home/carren/C-SharpProjects/Podcasts-Collected/obj/Debug/net6.0/Podcasts-Collected.csproj.CoreCompileInputs.cache
+/home/carren/C-SharpProjects/Podcasts-Collected/obj/Debug/net6.0/Podcasts-Collected.dll
+/home/carren/C-SharpProjects/Podcasts-Collected/obj/Debug/net6.0/ref/Podcasts-Collected.dll
+/home/carren/C-SharpProjects/Podcasts-Collected/obj/Debug/net6.0/Podcasts-Collected.pdb
+/home/carren/C-SharpProjects/Podcasts-Collected/obj/Debug/net6.0/Podcasts-Collected.genruntimeconfig.cache
